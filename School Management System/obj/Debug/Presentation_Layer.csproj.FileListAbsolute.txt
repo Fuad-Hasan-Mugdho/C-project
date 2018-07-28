@@ -1,0 +1,85 @@
+D:\C#\Fuad\School Management System\School Management System\bin\Debug\School Management System.exe.config
+D:\C#\Fuad\School Management System\School Management System\bin\Debug\School Management System.exe
+D:\C#\Fuad\School Management System\School Management System\bin\Debug\School Management System.pdb
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\Presentation_Layer.csprojResolveAssemblyReference.cache
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Add_Faculty.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Add_Student.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Admin_Dashboard.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Search_Course.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Search_Faculty.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Search_Student.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Student_Dashboard.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Student_Profile.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Student_Registration.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Course.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Dashboard.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Grade.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Notice.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Profile.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\Presentation_Layer.csproj.GenerateResource.Cache
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School Management System.exe
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School Management System.pdb
+D:\C#\Fuad\School Management System\School Management System\bin\Debug\Student.mdf
+D:\C#\Fuad\School Management System\School Management System\bin\Debug\Student_log.ldf
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Student_Notice.resources
+D:\C#\Fuad\School Management System\School Management System\obj\Debug\School_Management_System.Student_Grade.resources
+G:\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe.config
+G:\School Management System\School Management System\School Management System\obj\Debug\School Management System.exe
+G:\School Management System\School Management System\School Management System\obj\Debug\School Management System.pdb
+G:\School Management System\School Management System\School Management System\bin\Debug\Student.mdf
+G:\School Management System\School Management System\School Management System\bin\Debug\Student_log.ldf
+G:\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe
+G:\School Management System\School Management System\School Management System\bin\Debug\School Management System.pdb
+G:\School Management System\School Management System\School Management System\obj\Debug\Presentation_Layer.csprojResolveAssemblyReference.cache
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Faculty.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Student.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Admin_Dashboard.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Search_Course.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Search_Faculty.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Search_Student.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Dashboard.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Profile.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Registration.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Grade.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Course.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Dashboard.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Notice.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Grade.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Notice.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Profile.resources
+G:\School Management System\School Management System\School Management System\obj\Debug\Presentation_Layer.csproj.GenerateResource.Cache
+G:\School Management System\School Management System\School Management System\School Management System\bin\Debug\Student.mdf
+G:\School Management System\School Management System\School Management System\School Management System\bin\Debug\Student_log.ldf
+G:\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe.config
+G:\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.exe
+G:\School Management System\School Management System\School Management System\School Management System\bin\Debug\School Management System.pdb
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Course.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Faculty.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Add_Student.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Admin_Dashboard.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.File_Upload.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Search_Course.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Search_Faculty.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Search_Student.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Dashboard.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Profile.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Registration.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Grade.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Course.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Dashboard.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Student_Notice.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Grade.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Notice.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School_Management_System.Teacher_Profile.resources
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\Presentation_Layer.csproj.GenerateResource.Cache
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.exe
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\School Management System.pdb
+G:\School Management System\School Management System\School Management System\School Management System\obj\Debug\Presentation_Layer.csprojResolveAssemblyReference.cache
